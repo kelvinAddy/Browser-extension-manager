@@ -8,7 +8,6 @@ This is a solution to the [Browser extensions manager UI challenge on Frontend M
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
 
@@ -33,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/kelvinAddy/Browser-extension-manager)
-- Live Site URL: [Add live site URL here](https://kelvinaddy.github.io/Browser-extension-manager/)
+- Solution URL: [Github](https://github.com/kelvinAddy/Browser-extension-manager)
+- Live Site URL: [Live Site](https://kelvinaddy.github.io/Browser-extension-manager/)
 
 ### Built with
 
