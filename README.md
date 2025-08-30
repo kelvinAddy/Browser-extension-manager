@@ -27,8 +27,6 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop](./assets/images/Desktop%20View.png)
-![Tablet](./assets/images/Tablet%20View.png)
-![Mobile](./assets/images/Mobile%20VIew.png)
 
 ### Links
 
