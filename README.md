@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/kelvinAddy/Browser-extension-manager)
+- Live Site URL: [Add live site URL here](https://kelvinaddy.github.io/Browser-extension-manager/)
 
 ### Built with
 
